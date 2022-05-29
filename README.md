@@ -32,6 +32,11 @@ dalam hal kadar saturasi oksigen , sebelum dan sesudah melakukan
 aktivitas 𝐴 jika diketahui tingkat signifikansi 𝛼 = 5% serta H0 : “tidak ada
 pengaruh yang signifikan secara statistika dalam hal kadar saturasi
 oksigen , sebelum dan sesudah melakukan aktivitas 𝐴”  
+  
+nilai p value < nilai tingkat signifikannya  
+sehingga menolak h0  
+pengaruh yang signifikan dengan statistika dalam hal kadar saturasi  
+oksigen, sebelum dan setelah melaksanakan aktivitas A" salah  
 
 # Soal No 2  
 Diketahui bahwa mobil dikemudikan rata-rata lebih dari 20.000 kilometer per tahun.
