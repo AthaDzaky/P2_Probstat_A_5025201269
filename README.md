@@ -44,15 +44,7 @@ Untuk menguji klaim ini, 100 pemilik mobil yang dipilih secara acak diminta untu
 mencatat jarak yang mereka tempuh. Jika sampel acak menunjukkan rata-rata
 23.500 kilometer dan standar deviasi 3900 kilometer. (Kerjakan menggunakan library seperti referensi pada modul).  
 
-## 2a
-Apakah Anda setuju dengan klaim tersebut?  
-![alt text]()  
-## 2b  
-Jelaskan maksud dari output yang dihasilkan!  
-![alt text]() 
-## 2c
-NBuatlah kesimpulan berdasarkan P-Value yang dihasilkan!  
-![alt text]()  
+Saya setuju, setela dilakukan pengujian didapatkan hasil bahwa menolak H0 karena nilai z > z alpha , maka dapat disimpulkan bahwa rata2 mobil lebih dari 20.000km  
 
 # Soal No 3  
 Diketahui perusahaan memiliki seorang data analyst ingin memecahkan
